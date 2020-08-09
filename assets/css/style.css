@@ -4,6 +4,7 @@
     margin: 0;
 }
 
+/* background clolor for body element */
 body {
     background-color: #d9dcd6;
 }
@@ -50,11 +51,7 @@ header nav {
     margin-right: 20px;
     float: right;
     font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
-    font-size: 20px;
-}
-
-header nav ul {
-    list-style-type: none;
+    font-size: 25px;
 }
 
 header nav ul li {
@@ -62,10 +59,7 @@ header nav ul li {
     margin-left: 25px;
 }
 
-header nav a {
-    font-size: 20px;
-}
-
+/* style hero section */
 .hero {
     height: 800px;
     width: 100%;
