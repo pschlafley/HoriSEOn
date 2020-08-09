@@ -112,6 +112,7 @@ header nav ul li {
     font-size: 36px;
 }
 
+/* benefits secion */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -171,6 +172,7 @@ header nav ul li {
     max-width: 150px;
 }
 
+/* footer section */
 .footer {
     padding: 30px;
     clear: both;
