@@ -21,6 +21,5 @@ CLick on each individual heading to take you to a section for you to learn more 
 *NONE*
 We Install it for you!!
 
-![HoriSEOn Landing page](/screenshots/horiseon)
-![HoriSEOn Landing page](/screenshots/horiseon2)
-![HoriSEOn Landing page](/screenshots/horiseon3)
+[Horiseon](file:///Users/peyton.schlafley/Desktop/Challenges/CodeRefractor/index.html#search-engine-optimization)
+
