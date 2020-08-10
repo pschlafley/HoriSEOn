@@ -21,5 +21,5 @@ CLick on each individual heading to take you to a section for you to learn more 
 *NONE*
 We Install it for you!!
 
-[Horiseon](file:///Users/peyton.schlafley/Desktop/Challenges/CodeRefractor/index.html#search-engine-optimization)
-
+# Links
+[Horiseon landing page] (https://pschlafley.github.io/HoriSEOn/#social-media-marketing)
